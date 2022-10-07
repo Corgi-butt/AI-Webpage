@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+    background-color: lightblue;
+    color: white;
+}
+h1{
+    border: 3px white solid;
+    border-radius: 5px;
+    margin: 20px 25%;
+    background-color: skyblue;
+}
+.sec1{
+    color: orange;
+    border: 3px gray solid;
+    border-radius: 5px;
+    background-color: white;
+    margin: 10px 50px;
+    padding: auto;
+}
+.list{
+    border: 3px white solid;
+    border-radius: 5px;
+    margin: 5% 25%;
+    padding: 5px 10px;
+    background-color: skyblue;
+}
+.sec2{
+    color: orange;
+    border: 3px gray solid;
+    border-radius: 5px;
+    background-color: white;
+    margin: 10px 50px;
+    padding: auto;
+}
+.list2{
+    color: white;
+    background-color: skyblue;
+    border: 3px gray solid;
+    margin: 20px 50px;
+    padding: auto;
+}
+ol{
+    width: 50%;
+    margin: auto;
+}
+img{
+    width: 30%;
+    height: 30%;
+}
